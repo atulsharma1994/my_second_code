@@ -1,2 +1,1 @@
-# my_second_code
-my_first_code
+i need to clean this repo
